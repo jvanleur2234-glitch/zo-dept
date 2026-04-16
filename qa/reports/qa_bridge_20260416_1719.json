@@ -1,0 +1,25 @@
+{
+  "status": "cycle_complete",
+  "bugs_found": 3,
+  "results": [
+    {
+      "status": "skip",
+      "reason": "skill not found: unknown",
+      "bug_file": "/home/workspace/zo-dept/qa/failed/bug-20260416-171559.json",
+      "test_name": "MoneyPrinterTurbo"
+    },
+    {
+      "status": "skip",
+      "reason": "skill not found: unknown",
+      "bug_file": "/home/workspace/zo-dept/qa/failed/bug-20260416-171619.json",
+      "test_name": "MoneyPrinterTurbo"
+    },
+    {
+      "status": "skip",
+      "reason": "skill not found: unknown",
+      "bug_file": "/home/workspace/zo-dept/qa/failed/bug-20260416-171650.json",
+      "test_name": "Ollama"
+    }
+  ],
+  "total_cost_estimate": 0
+}

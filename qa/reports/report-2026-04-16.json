@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-16T17:16:50.596775",
+  "total": 10,
+  "passed": 8,
+  "failed": 2,
+  "log": [
+    {
+      "status": "PASS",
+      "msg": "Bonsai page: 200",
+      "time": "2026-04-16T17:16:41.113121"
+    },
+    {
+      "status": "PASS",
+      "msg": "Skill Store: 200",
+      "time": "2026-04-16T17:16:41.622747"
+    },
+    {
+      "status": "PASS",
+      "msg": "Freedom Dashboard: 200",
+      "time": "2026-04-16T17:16:42.182340"
+    },
+    {
+      "status": "PASS",
+      "msg": "Homepage: 200",
+      "time": "2026-04-16T17:16:42.451463"
+    },
+    {
+      "status": "FAIL",
+      "msg": "API Workflow Extract API: HTTP Error 500: Internal Server Error",
+      "time": "2026-04-16T17:16:42.965010"
+    },
+    {
+      "status": "PASS",
+      "msg": "Stripe SubTrim Pro: link active",
+      "time": "2026-04-16T17:16:43.028313"
+    },
+    {
+      "status": "PASS",
+      "msg": "Stripe SEO Audit: link active",
+      "time": "2026-04-16T17:16:43.041542"
+    },
+    {
+      "status": "FAIL",
+      "msg": "Ollama: <urlopen error [Errno 99] Cannot assign requested address>",
+      "time": "2026-04-16T17:16:43.042499"
+    },
+    {
+      "status": "SKIP",
+      "msg": "MoneyPrinterTurbo: not running in sandbox",
+      "time": "2026-04-16T17:16:43.042977"
+    },
+    {
+      "status": "PASS",
+      "msg": "Telegram: API reachable",
+      "time": "2026-04-16T17:16:43.043030"
+    },
+    {
+      "status": "PASS",
+      "msg": "Zo API: responding",
+      "time": "2026-04-16T17:16:50.595784"
+    }
+  ]
+}

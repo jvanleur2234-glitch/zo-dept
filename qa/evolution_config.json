@@ -1,0 +1,12 @@
+{
+  "eval_source": "synthetic",
+  "iterations": 10,
+  "auto_apply": false,
+  "notify_on_fix": true,
+  "cost_limit_per_run": 10,
+  "watch_folders": {
+    "failures": "/home/workspace/zo-dept/qa/failed",
+    "skills": "/home/workspace/solomon-skills",
+    "output": "/home/workspace/zo-dept/qa/fixed"
+  }
+}
